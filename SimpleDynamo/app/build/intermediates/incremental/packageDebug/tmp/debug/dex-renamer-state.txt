@@ -1,0 +1,4 @@
+#Mon May 13 08:53:04 EDT 2019
+base.0=E\:\\Projects\\Android\\PA4\\SimpleDynamo\\SimpleDynamo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
